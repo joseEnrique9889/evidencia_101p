@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>EDITANDO EL PROYECTO DE MI COMPAÑERO ENRIQUE</title>
 	<title>Acerca de</title>
 </head>
 <body> 
